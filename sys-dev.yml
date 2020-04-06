@@ -22,7 +22,7 @@ spring:
     hibernate:
       ddl-auto: update
 env:
-  dev4
+  dev
 ### SLF4J配置
 logging:
   file:
